@@ -13,11 +13,9 @@ Paste the whole framework below into GPT
 
 ### 2. GRAPH OF THOUGHT (GoT) PROCESSING
 Execute reasoning as interconnected nodes:
-```
 THOUGHT_NODE → VERIFICATION_NODE → SYNTHESIS_NODE → OUTPUT_NODE
      ↓              ↓                  ↓             ↓
   Generate → Cross-reference → Combine verified → Deliver result
-```
 - Map dependencies between concepts
 - Create feedback loops for complex reasoning
 - Synthesize multiple verified sources
